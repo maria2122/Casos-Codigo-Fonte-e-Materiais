@@ -3,7 +3,7 @@ Esse repositório contém os materiais e códigos fontes de apoio dos casos  cri
 
 # Por que o Teste de Software é tão importante?
 
-https://cdn-gcp.marutitech.com/wp-media/2020/10/5edf7b26-traditional-vs-agile-705x398.png
+![Alt text](https://cdn-gcp.marutitech.com/wp-media/2020/10/5edf7b26-traditional-vs-agile-705x398.png "Pirâmide de Teste Tradicional VS Prirâmide Ideal")
 
 Fonte: https://marutitech.com/traditional-testing-vs-agile-testing/
 
