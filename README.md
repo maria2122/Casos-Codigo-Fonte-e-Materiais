@@ -1,5 +1,11 @@
 # Casos-Codigo-Fonte-e-Materiais
-Esse repositório contém os materiais e códigos fontes de apoio dos casos  criados na plataforma OpenEducases.
+Esse repositório contém os materiais e códigos fontes de apoio dos casos  criados na plataforma.
+
+# Por que o Teste de Software é tão importante?
+
+https://cdn-gcp.marutitech.com/wp-media/2020/10/5edf7b26-traditional-vs-agile-705x398.png
+
+Fonte: https://marutitech.com/traditional-testing-vs-agile-testing/
 
 # O que é um caso?
 
