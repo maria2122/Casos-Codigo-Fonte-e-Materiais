@@ -1,5 +1,7 @@
-# Casos-Codigo-Fonte-e-Materiais
-Esse repositório contém os materiais e códigos fontes de apoio dos casos  criados na plataforma.
+# :ledger Teste de Software: Um Guia em Casos 
+
+## 
+
 
 # Por que o Teste de Software é tão importante?
 
