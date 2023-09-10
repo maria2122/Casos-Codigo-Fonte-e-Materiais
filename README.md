@@ -37,8 +37,6 @@ software de alta qualidade que atenda às expectativas dos seus usuários.
 
 1. [Técnicas de Teste](#tecnicateste)
 2. [Critérios de Teste](#criterioteste)
-    - Exemplos de critérios para o Teste Funcional;
-    - Exemplos de critérios para Teste Estrutural;
 4. [Another paragraph](#paragraph2)
 
 ### Técnicas de Teste <a name="tecnicateste"></a>
@@ -48,7 +46,6 @@ As mais conhecidas são:
 | Técnica de Teste | Objetivo                                                                                                                                                                         |
 | :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  Teste caixa branca ou Teste Estrutural | Exige um conhecimento da estrutura interna, o design e a codificação do software são testados para verificar o fluxo de entrada-saída e melhorar o design, a usabilidade e a segurança. No teste de caixa branca, o código é visível para os testadores, por isso também é chamado de teste de caixa clara, teste de caixa aberta, teste de caixa transparente, teste baseado em código e teste de caixa de vidro.                                 |
-|  Teste caixa cinza   | Exige um conhecimento parcial da estrutura interna do aplicativo. O objetivo do teste de caixa cinza é pesquisar e identificar os defeitos devido à estrutura inadequada do código ou uso inadequado dos aplicativos. |
 |  Teste caixa preta / Teste Funcional / Baseado em Especificação  | Não se exige um conhecimento do funcionamenrto interno do software, o objetivo é verificar se o comportamento da funcionalidade está ocorrendo de acordo com o esperado na especificação  |
 
 As técnicas de teste utilizam os chamados "Critérios de Teste" para definir o que é importante de ser testado, evitando assim redundância de testes.
@@ -63,8 +60,7 @@ De modo geral, um critério de teste se preocupa em resposder as seguintes pergu
 
 | Critério | Objetivo                                                                                                                                                                         |
 | :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Teste caixa branca ou Teste Estrutural |     Baseados na Complexidade, Baseados em Fluxo de Controle e Baseados em Fluxo de Dados          |
-|  Teste caixa cinza   | |
+|  Teste caixa branca ou Teste Estrutural |  Baseados na Complexidade, Baseados em Fluxo de Controle e Baseados em Fluxo de Dados          |
 |  Teste caixa preta / Teste Funcional / Baseado em Especificação  |  Particionamento em Classes de Equivalência, Análise do Valor Limite e Grafo Causa-Efeito |
 
 
