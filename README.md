@@ -73,11 +73,13 @@ De modo geral, um critério de teste se preocupa em resposder as seguintes pergu
 
 #### Modelos de Casos Iniciantes
 
-| Nome | Descrição  | Nível                                                                                                                                                                  |
-| :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Funcional: Verifica Cadastro de Pacientes |           |
-| Funcional:  |   |
-
+| Nome                                                                              | Descrição                                                  | Nível        |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------ |
+| [ Funcional: Verifica Cadastro de Pacientes](./Projects/1-Beginner/Bin2Dec-App.md)| Binary-to-Decimal number converter                         | 1-Inicitante |
+| [Border Radius Previewer](./Projects/1-Beginner/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element    | 1-Inicitante |
+| [Calculator](./Projects/1-Beginner/Calculator-App.md)                             | Calculator                                                 | 1-Inicitante |
+| [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Inicitante |
+| [Cause Effect App](./Projects/1-Beginner/Cause-Effect-App.md)                     | Click list item to display item details                    | 1-Inicitante |
 
 Referências:
 
