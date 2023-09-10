@@ -37,45 +37,51 @@ software de alta qualidade que atenda às expectativas dos seus usuários.
 
 1. [Técnicas de Teste](#tecnicateste)
 2. [Critérios de Teste](#criterioteste)   
-3. [Another paragraph](#paragraph2)
+3. [Modelos de Casos](#casos)
 
-### Técnicas de Teste <a name="tecnicateste"></a>
+### 1. Técnicas de Teste <a name="tecnicateste"></a>
 Como é inviável testar todos cenários possíveis pela quantidade infinita de combinações, utilizamos heurísticas(técnicas) de teste que são guias de como se projetar bons casos de testes.
 As mais conhecidas são:
 
 | Técnica de Teste | Objetivo                                                                                                                                                                         |
 | :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Teste caixa branca ou Teste Estrutural | Exige um conhecimento da estrutura interna, o design e a codificação do software são testados para verificar o fluxo de entrada-saída e melhorar o design, a usabilidade e a segurança. No teste de caixa branca, o código é visível para os testadores, por isso também é chamado de teste de caixa clara, teste de caixa aberta, teste de caixa transparente, teste baseado em código e teste de caixa de vidro.                                 |
+|  Teste caixa branca ou Teste Estrutural                          | Exige um conhecimento da estrutura interna, o design e a codificação do software são testados para verificar o fluxo de entrada-saída e melhorar o design, a usabilidade e a segurança. No teste de caixa branca, o código é visível para os testadores, por isso também é chamado de teste de caixa clara, teste de caixa aberta, teste de caixa transparente, teste baseado em código e teste de caixa de vidro.                                 |
 |  Teste caixa preta / Teste Funcional / Baseado em Especificação  | Não se exige um conhecimento do funcionamenrto interno do software, o objetivo é verificar se o comportamento da funcionalidade está ocorrendo de acordo com o esperado na especificação  |
 
 As técnicas de teste utilizam os chamados "Critérios de Teste" para definir o que é importante de ser testado, evitando assim redundância de testes.
 
-### Critérios de Teste <a name="criterioteste"></a>
+### 2. Critérios de Teste <a name="criterioteste"></a>
 
 De modo geral, um critério de teste se preocupa em resposder as seguintes perguntas:
 
-- Como slecionar valores de entrada para criar bons casos de teste?
+- Como selecionar valores de entrada para criar bons casos de teste?
 - Quantos casos de teste devem ser criados?
 - Quando parar de testar?
 
-| Critério | Objetivo                                                                                                                                                                         |
+| Critério | Objetivo                                                                                                                                                                        |
 | :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Teste caixa branca ou Teste Estrutural |  Baseados na Complexidade, Baseados em Fluxo de Controle e Baseados em Fluxo de Dados          |
+|  Teste caixa branca ou Teste Estrutural                          | Baseados na Complexidade, Baseados em Fluxo de Controle e Baseados em Fluxo de Dados          |
 |  Teste caixa preta / Teste Funcional / Baseado em Especificação  |  Particionamento em Classes de Equivalência, Análise do Valor Limite e Grafo Causa-Efeito |
 
+### 2. Modelos de Casos <a name="casos"></a>
 
+| Nível |   Perfil do Aluno                                                                                                                                                                 |
+| :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  1 - Iniciante     |   Alunos que tenham conhecimento em lógica de programação, algoritmos e já tenham tido contato com as linguagens : HTML, CSS e JAVASCRIPT       |
+|  2 - Intermediário |   Alunos que já tenham desenvolvido uma aplicação básica em qualquer linguagem atuando nas camadas BACKEND (Servidor de Aplicação, Persistência em Banco de Dados) e FRONTEND (Aplicação Cliente)         |
+|  3 - Avançado | |
 
-  
+#### Modelos de Casos Iniciantes
 
-
-
-
-
-
-
+| Nome | Descrição  | Nível                                                                                                                                                                  |
+| :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Funcional: Verifica Cadastro de Pacientes |           |
+| Funcional:  |   |
 
 
 Referências:
+
+https://www.ic.unicamp.br/~meidanis/courses/mc626/2014s1/materiais/slides/Aula15-Testes-caixa-preta-2-tabela-decisao-casos-uso.pdf
 https://roadmap.sh/qa
 https://www.guru99.com/v-model-software-testing.html
 https://www.iso.org/obp/ui/en/#iso:std:iso-iec-ieee:29119:-3:ed-2:v1:en
