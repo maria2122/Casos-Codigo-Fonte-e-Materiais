@@ -44,9 +44,12 @@ Como é inviável testar todos cenários possíveis pela quantidade infinita de 
 As mais conhecidas são:
 
 | Técnica de Teste | Objetivo                                                                                                                                                                         |
-| :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Teste caixa branca ou Teste Estrutural                          | Exige um conhecimento da estrutura interna, o design e a codificação do software são testados para verificar o fluxo de entrada-saída e melhorar o design, a usabilidade e a segurança. No teste de caixa branca, o código é visível para os testadores, por isso também é chamado de teste de caixa clara, teste de caixa aberta, teste de caixa transparente, teste baseado em código e teste de caixa de vidro.                                 |
-|  Teste caixa preta / Teste Funcional / Baseado em Especificação  | Não se exige um conhecimento do funcionamenrto interno do software, o objetivo é verificar se o comportamento da funcionalidade está ocorrendo de acordo com o esperado na especificação  |
+| :--:    | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  Teste caixa branca ou Teste Estrutural                          | Exige um conhecimento da estrutura interna, o design e a codificação do software são testados para verificar o fluxo de 
+entrada-saída e melhorar o design, a usabilidade e a segurança. No teste de caixa branca, o código é visível para os testadores, por isso também é chamado de teste de caixa clara, teste de
+caixa aberta, teste de caixa transparente, teste baseado em código e teste de caixa de vidro.                                                                                                         |
+|  Teste caixa preta / Teste Funcional / Baseado em Especificação  | Não se exige um conhecimento do funcionamenrto interno do software, o objetivo é verificar se o comportamento da 
+funcionalidade está ocorrendo de acordo com o esperado na especificação                                                                                                                               |
 
 As técnicas de teste utilizam os chamados "Critérios de Teste" para definir o que é importante de ser testado, evitando assim redundância de testes.
 
@@ -71,7 +74,7 @@ De modo geral, um critério de teste se preocupa em resposder as seguintes pergu
 |  2 - Intermediário |   Alunos que já tenham desenvolvido uma aplicação básica em qualquer linguagem atuando nas camadas BACKEND (Servidor de Aplicação, Persistência em Banco de Dados) e FRONTEND (Aplicação Cliente)         |
 |  3 - Avançado | |
 
-#### Modelos de Casos Iniciantes
+#### :white_check_mark: Nível Iniciante
 
 | Nome                                                                              | Descrição                                                  | Nível        |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------ |
@@ -80,6 +83,30 @@ De modo geral, um critério de teste se preocupa em resposder as seguintes pergu
 | [Calculator](./Projects/1-Beginner/Calculator-App.md)                             | Calculator                                                 | 1-Inicitante |
 | [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Inicitante |
 | [Cause Effect App](./Projects/1-Beginner/Cause-Effect-App.md)                     | Click list item to display item details                    | 1-Inicitante |
+
+#### :white_check_mark: Nível Intermediário 
+
+| Nome                                                                              | Descrição                                                  | Nível           |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------|
+| [ Funcional: Verifica Cadastro de Pacientes](./Projects/1-Beginner/Bin2Dec-App.md)| Binary-to-Decimal number converter                         | 1-Intermediário |
+| [Border Radius Previewer](./Projects/1-Beginner/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element    | 1-Intermediário |
+| [Calculator](./Projects/1-Beginner/Calculator-App.md)                             | Calculator                                                 | 1-Intermediário |
+| [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Intermediário |
+| [Cause Effect App](./Projects/1-Beginner/Cause-Effect-App.md)                     | Click list item to display item details                    | 1-Intermediário |
+
+#### :white_check_mark: Nível Avançado 
+
+| Nome                                                                              | Descrição                                                  | Nível      |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | -----------|
+| [ Funcional: Verifica Cadastro de Pacientes](./Projects/1-Beginner/Bin2Dec-App.md)| Binary-to-Decimal number converter                         | 1-Avançado |
+| [Border Radius Previewer](./Projects/1-Beginner/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element    | 1-Avançado |
+| [Calculator](./Projects/1-Beginner/Calculator-App.md)                             | Calculator                                                 | 1-Avançado |
+| [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Avançado |
+| [Cause Effect App](./Projects/1-Beginner/Cause-Effect-App.md)                     | Click list item to display item details                    | 1-Avançado |
+
+
+
+
 
 Referências:
 
