@@ -1,7 +1,4 @@
-# :ledger Teste de Software: Um Guia em Casos 
-
-## 
-
+# :ledger: Teste de Software: Um Guia em Casos 
 
 # Por que o Teste de Software é tão importante?
 
