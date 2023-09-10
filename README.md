@@ -33,24 +33,36 @@ planejamento, modelagem, construção e aprimoramento.
 O teste de software não é apenas uma etapa final do ciclo de desenvolvimento e sim uma disciplina que permeia todo o processo, garantindo que você entregue 
 software de alta qualidade que atenda às expectativas dos seus usuários. 
 
-![image]()
+## Roteiro 
+1. [Técnicas de Teste](#tecnicateste)
+2. [Critérios de Teste](#criterioteste)
+    - Teste Funcional:
+       - [Classes de Equivalência](#subparagraph1)
+       - Tabela de decisão
+4. [Another paragraph](#paragraph2)
 
-Fonte: GeeksForGeeks
-
-Esse guia está organizado em abordagens(técnicas) de teste e tipos de teste:
-
-### Técnicas de Teste
+### Técnicas de Teste <a name="tecnicateste"></a>
+Como é inviável testar todos cenários possíveis pela quantidade infinita de combinações, utilizamos heurísticas(técnicas) de teste que são guias de como se projetar bons casos de testes.
+As mais conhecidas são:
 
 | Técnica de Teste | Objetivo                                                                                                                                                                         |
 | :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Teste caixa branca ou Teste Estrutural | Developers in the early stages of their learning journey. Those who are typically focused on creating user-facing applications.                                  |
-|  Teste caixa cinza   | Developers at an intermediate stage of learning and experience. They are comfortable in UI/UX, using development tools, and building apps that use API services. |
-|  Teste caixa preta / Teste Funcional / Baseado em Especificação  | Verifica se o comportamento da funcionalidade está ocorrendo como o esperado na especificação sem a necessidade de se conhecer o funcionamenrto interno do software                                                |
-### Critérios de Teste
+|  Teste caixa branca ou Teste Estrutural | Exige um conhecimento da estrutura interna, o design e a codificação do software são testados para verificar o fluxo de entrada-saída e melhorar o design, a usabilidade e a segurança. No teste de caixa branca, o código é visível para os testadores, por isso também é chamado de teste de caixa clara, teste de caixa aberta, teste de caixa transparente, teste baseado em código e teste de caixa de vidro.                                 |
+|  Teste caixa cinza   | Exige um conhecimento parcial da estrutura interna do aplicativo. O objetivo do teste de caixa cinza é pesquisar e identificar os defeitos devido à estrutura inadequada do código ou uso inadequado dos aplicativos. |
+|  Teste caixa preta / Teste Funcional / Baseado em Especificação  | Não se exige um conhecimento do funcionamenrto interno do software, o objetivo é verificar se o comportamento da funcionalidade está ocorrendo de acordo com o esperado na especificação  |
+
+As técnicas de teste utilizam os chamados "Critérios de Teste" para definir o que é importante de ser testado, evitando assim redundância de testes.
+
+### Critérios de Teste <a name="criterioteste"></a>
+
+De modo geral, um critério de teste se preocupa em resposder as seguintes perguntas:
 
 - Como slecionar valores de entrada para criar bons casos de teste?
-- Qunatos casos de teste devem ser criados?
+- Quantos casos de teste devem ser criados?
 - Quando parar de testar?
+
+
+
 
   
 
