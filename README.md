@@ -84,7 +84,7 @@ De modo geral, um critério de teste se preocupa em resposder as seguintes pergu
 | [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Inicitante |
 | [Cause Effect App](./Projects/1-Beginner/Cause-Effect-App.md)                     | Click list item to display item details                    | 1-Inicitante |
 
-#### :white_check_mark: Nível Intermediário 
+#### :muscle: Nível Intermediário 
 
 | Nome                                                                              | Descrição                                                  | Nível           |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------|
@@ -94,7 +94,7 @@ De modo geral, um critério de teste se preocupa em resposder as seguintes pergu
 | [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Intermediário |
 | [Cause Effect App](./Projects/1-Beginner/Cause-Effect-App.md)                     | Click list item to display item details                    | 1-Intermediário |
 
-#### :white_check_mark: Nível Avançado 
+#### :cold_sweat: Nível Avançado 
 
 | Nome                                                                              | Descrição                                                  | Nível      |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | -----------|
