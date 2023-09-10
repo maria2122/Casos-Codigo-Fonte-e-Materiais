@@ -34,11 +34,11 @@ O teste de software não é apenas uma etapa final do ciclo de desenvolvimento e
 software de alta qualidade que atenda às expectativas dos seus usuários. 
 
 ## Roteiro 
+
 1. [Técnicas de Teste](#tecnicateste)
 2. [Critérios de Teste](#criterioteste)
-    - Teste Funcional:
-       - [Classes de Equivalência](#subparagraph1)
-       - Tabela de decisão
+    - Exemplos de critérios para o Teste Funcional;
+    - Exemplos de critérios para Teste Estrutural;
 4. [Another paragraph](#paragraph2)
 
 ### Técnicas de Teste <a name="tecnicateste"></a>
@@ -61,6 +61,11 @@ De modo geral, um critério de teste se preocupa em resposder as seguintes pergu
 - Quantos casos de teste devem ser criados?
 - Quando parar de testar?
 
+| Critério | Objetivo                                                                                                                                                                         |
+| :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  Teste caixa branca ou Teste Estrutural |     Baseados na Complexidade, Baseados em Fluxo de Controle e Baseados em Fluxo de Dados          |
+|  Teste caixa cinza   | |
+|  Teste caixa preta / Teste Funcional / Baseado em Especificação  |  Particionamento em Classes de Equivalência, Análise do Valor Limite e Grafo Causa-Efeito |
 
 
 
