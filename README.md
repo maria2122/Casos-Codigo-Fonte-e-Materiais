@@ -1,4 +1,4 @@
-# :dart: Teste de Software: Um Guia Prático em Casos 
+# :rocket: Teste de Software: Um Guia Prático em Casos 
 
 Este guia de casos foi desenvolvido por meio da metodologia Aprendizagem Baseada em Casos, com o objetivo de ser acessível e também aplicável em disciplinas de Engenharia de Software
 ou qualquer pessoa que esteja interessada, independentemente do seu nível de experiência. À medida que você avança, encontrará não apenas teoria, mas também orientações práticas e 
@@ -33,11 +33,11 @@ planejamento, modelagem, construção e aprimoramento.
 O teste de software não é apenas uma etapa final do ciclo de desenvolvimento e sim uma disciplina que permeia todo o processo, garantindo que você entregue 
 software de alta qualidade que atenda às expectativas dos seus usuários. 
 
-## Roteiro 
+## :dart: Roteiro 
 
 1. [Técnicas de Teste](#tecnicateste)
-2. [Critérios de Teste](#criterioteste)
-4. [Another paragraph](#paragraph2)
+2. [Critérios de Teste](#criterioteste)   
+3. [Another paragraph](#paragraph2)
 
 ### Técnicas de Teste <a name="tecnicateste"></a>
 Como é inviável testar todos cenários possíveis pela quantidade infinita de combinações, utilizamos heurísticas(técnicas) de teste que são guias de como se projetar bons casos de testes.
