@@ -45,12 +45,14 @@ Esse guia está organizado em abordagens(técnicas) de teste e tipos de teste:
 | :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  Teste caixa branca ou Teste Estrutural | Developers in the early stages of their learning journey. Those who are typically focused on creating user-facing applications.                                  |
 |  Teste caixa cinza   | Developers at an intermediate stage of learning and experience. They are comfortable in UI/UX, using development tools, and building apps that use API services. |
-|  Teste caixa preta ou Teste Funcional  | Verifica se o comportamento da funcionalidade está ocorrendo como o esperado na especificação sem a necessidade de se conhecer o funcionamenrto interno do software                                                |
+|  Teste caixa preta / Teste Funcional / Baseado em Especificação  | Verifica se o comportamento da funcionalidade está ocorrendo como o esperado na especificação sem a necessidade de se conhecer o funcionamenrto interno do software                                                |
 ### Critérios de Teste
 
 - Como slecionar valores de entrada para criar bons casos de teste?
 - Qunatos casos de teste devem ser criados?
 - Quando parar de testar?
+
+  
 
 
 
