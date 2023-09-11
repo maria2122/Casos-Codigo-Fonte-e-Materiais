@@ -68,11 +68,13 @@ De modo geral, um critério de teste se preocupa em resposder as seguintes pergu
 
 ### 2. Modelos de Casos <a name="casos"></a>
 
-| Nível |   Perfil do Aluno                                                                                                                                                                 |
-| :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  1 - Iniciante     |   Alunos que tenham conhecimento em lógica de programação, algoritmos e já tenham tido contato com as linguagens : HTML, CSS e JAVASCRIPT       |
-|  2 - Intermediário |   Alunos que já tenham desenvolvido uma aplicação básica em qualquer linguagem atuando nas camadas BACKEND (Servidor de Aplicação, Persistência em Banco de Dados) e FRONTEND (Aplicação Cliente)         |
-|  3 - Avançado | |
+| Nível |   Perfil do Aluno                                                                                                                                                                    |
+| :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
+|  1 - Iniciante     | Alunos que tenham conhecimento em lógica de programação, algoritmos e já tenham tido contato com as linguagens : HTML, CSS e JAVASCRIPT                                 |
+|  2 - Intermediário | Alunos que tenham desenvolvido uma aplicação básica em qualquer linguagem atuando nas camadas BACKEND (Servidor de Aplicação, Persistência em Banco de Dados)
+e FRONTEND (Aplicação Cliente)                                                                                                                                                                 |
+|  3 - Avançado      | Alunos que tenham experiência acadêmica ou profissional em desenvolvimento de projetos nas camadas BACKEND e FRONTEND, bem como padrões de projetos, 
+principais processos da Engenharia de Software e controle de versão                                                                                                                            |
 
 #### :white_check_mark: Nível Iniciante
 
