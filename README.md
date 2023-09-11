@@ -21,7 +21,8 @@ Caso é uma estória real ou fictícia, documentada, que envolve:
 
 Martin Fowler, em seu livro Refatoração, afirma que:
 
->  [...] Se você observar como a maioria dos programadores gasta o tempo, verá que escrever código, na verdade, representa uma pequena fração desse tempo.
+>  [...]
+ Se você observar como a maioria dos programadores gasta o tempo, verá que escrever código, na verdade, representa uma pequena fração desse tempo.
 > Uma parte é gasta para descobrir o que está acontecendo, outra, no design, mais a maior parte do tempo é gasta com depuração [...]
 
 Essa reflexão que Martin faz pensarmos qual atenção estamos dando ao teste de software.
@@ -45,11 +46,8 @@ As mais conhecidas são:
 
 | Técnica de Teste | Objetivo                                                                                                                                                                         |
 | :--:    | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Teste caixa branca ou Teste Estrutural                          | Exige um conhecimento da estrutura interna, o design e a codificação do software são testados para verificar o fluxo de 
-entrada-saída e melhorar o design, a usabilidade e a segurança. No teste de caixa branca, o código é visível para os testadores, por isso também é chamado de teste de caixa clara, teste de
-caixa aberta, teste de caixa transparente, teste baseado em código e teste de caixa de vidro.                                                                                                         |
-|  Teste caixa preta / Teste Funcional / Baseado em Especificação  | Não se exige um conhecimento do funcionamenrto interno do software, o objetivo é verificar se o comportamento da 
-funcionalidade está ocorrendo de acordo com o esperado na especificação                                                                                                                               |
+|  Teste caixa branca ou Teste Estrutural                          | Exige um conhecimento da estrutura interna, o design e a codificação do software são testados para verificar o fluxo de entrada-saída e melhorar o design, a usabilidade e a segurança. No teste de caixa branca, o código é visível para os testadores, por isso também é chamado de teste de caixa clara, teste de caixa aberta, teste de caixa transparente, teste baseado em código e teste de caixa de vidro.                                                                                                         |
+|  Teste caixa preta / Teste Funcional / Baseado em Especificação  | Não se exige um conhecimento do funcionamenrto interno do software, o objetivo é verificar se o comportamento da funcionalidade está ocorrendo de acordo com o esperado na especificação                                                                                                                               |
 
 As técnicas de teste utilizam os chamados "Critérios de Teste" para definir o que é importante de ser testado, evitando assim redundância de testes.
 
@@ -71,10 +69,8 @@ De modo geral, um critério de teste se preocupa em resposder as seguintes pergu
 | Nível |   Perfil do Aluno                                                                                                                                                                    |
 | :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
 |  1 - Iniciante     | Alunos que tenham conhecimento em lógica de programação, algoritmos e já tenham tido contato com as linguagens : HTML, CSS e JAVASCRIPT                                 |
-|  2 - Intermediário | Alunos que tenham desenvolvido uma aplicação básica em qualquer linguagem atuando nas camadas BACKEND (Servidor de Aplicação, Persistência em Banco de Dados)
-e FRONTEND (Aplicação Cliente)                                                                                                                                                                 |
-|  3 - Avançado      | Alunos que tenham experiência acadêmica ou profissional em desenvolvimento de projetos nas camadas BACKEND e FRONTEND, bem como padrões de projetos, 
-principais processos da Engenharia de Software e controle de versão                                                                                                                            |
+|  2 - Intermediário | Alunos que tenham desenvolvido uma aplicação básica em qualquer linguagem atuando nas camadas BACKEND (Servidor de Aplicação, Persistência em Banco de Dados) e FRONTEND (Aplicação Cliente)|
+|  3 - Avançado      | Alunos que tenham experiência acadêmica ou profissional em desenvolvimento de projetos nas camadas BACKEND e FRONTEND, bem como padrões de projetos, processos da Engenharia de Software(analise de requisitos, modelagem, construção e teste, manutenção) e controle de versão                                                                                                 |
 
 #### :white_check_mark: Nível Iniciante
 
