@@ -21,12 +21,10 @@ Caso é uma estória real ou fictícia, documentada, que envolve:
 
 Martin Fowler, em seu livro Refatoração, afirma que:
 
+> [!IMPORTANT]
 >  [...]
  Se você observar como a maioria dos programadores gasta o tempo, verá que escrever código, na verdade, representa uma pequena fração desse tempo.
 > Uma parte é gasta para descobrir o que está acontecendo, outra, no design, mais a maior parte do tempo é gasta com depuração [...]
-
-> [!IMPORTANT]
-> Crucial information necessary for users to succeed.
 
 Essa reflexão que Martin faz pensarmos qual atenção estamos dando ao teste de software.
 Será que vale a pena realizar entregas rápidas, quando temos que gastar vários dias de depuração procurando por bugs?
