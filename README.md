@@ -96,11 +96,7 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 | Nome                                                                              | Descrição                                                  | Nível      |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | -----------|
 | [ Unitário: Método Desconto](./unitario/)                                         | Valida Método de Desconto                                  | 1-Avançado |
-| [Integração: ](./integracao/)                                                     | Preview how CSS3 border-radius values affect an element               | 1-Avançado |
-
-
-
-
+| [Integração: Módulos Financeiro e Contabilidade](./integracao/)                   | Valida Integração  Módulos Financeiro e Contabilidade      | 1-Avançado |
 
 
 Referências:
