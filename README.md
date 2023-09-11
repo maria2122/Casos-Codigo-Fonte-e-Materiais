@@ -88,15 +88,15 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 
 | Nome                                                                              | Descrição                                                  | Nível           |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------|
-| [ Unitário: Método Desconto](./unitario/)                                         | Valida Método de Desconto                                  | 1-Intermediário |
+| [ Unitário: Método Desconto](./unitario/)                                         | Valida Método de Desconto                                  | 2-Intermediário |
 
 
 #### :cold_sweat: Nível Avançado 
 
 | Nome                                                                              | Descrição                                                  | Nível      |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | -----------|
-| [ Unitário: Projeto FitHere](./unitario/)                                         | Projeto FitHere                                            | 1-Avançado |
-| [Integração: Módulos Financeiro e Contabilidade](./integracao/)                   | Valida Integração  Módulos Financeiro e Contabilidade      | 1-Avançado |
+| [ Unitário: Projeto FitHere](./unitario/)                                         | Projeto FitHere                                            | 3-Avançado |
+| [Integração: Módulos Financeiro e Contabilidade](./integracao/)                   | Valida Integração  Módulos Financeiro e Contabilidade      | 3-Avançado |
 
 
 
