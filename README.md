@@ -80,7 +80,7 @@ De modo geral, um critério de teste se preocupa em resposder as seguintes pergu
 
 | Nome                                                                              | Descrição                                                  | Nível        |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------ |
-| [ Funcional: Verifica Cadastro de Pacientes](./funcional/Modelo de Caso em Teste Funcional.pdf)| Binary-to-Decimal number converter                         | 1-Inicitante |
+| [ Funcional: Verifica Cadastro de Pacientes](./funcional/)| Binary-to-Decimal number converter                         | 1-Inicitante |
 | [Border Radius Previewer](./Projects/1-Beginner/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element    | 1-Inicitante |
 | [Calculator](./Projects/1-Beginner/Calculator-App.md)                             | Calculator                                                 | 1-Inicitante |
 | [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Inicitante |
