@@ -83,28 +83,21 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 | [ Funcional: Cadastro de Pacientes](./funcional/)                                 | Verificar Cadastro de Pacientes                            | 1-Inicitante |
 | [ Funcional: Cadastro de Alunos](./funcional/)                                    | Valida visibilidade de Campos                              | 1-Inicitante |
 | [ Não Funcional : Níveis e Acesso](./nao_funcional/)                              | Valida Níveis de Acesso                                    | 1-Inicitante |
-| [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Inicitante |
-| [Cause Effect App](./Projects/1-Beginner/Cause-Effect-App.md)                     | Click list item to display item details                    | 1-Inicitante |
 
 #### :muscle: Nível Intermediário 
 
 | Nome                                                                              | Descrição                                                  | Nível           |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------|
-| [ Funcional: Verifica Cadastro de Pacientes](./Projects/1-Beginner/Bin2Dec-App.md)| Binary-to-Decimal number converter                         | 1-Intermediário |
-| [Border Radius Previewer](./Projects/1-Beginner/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element    | 1-Intermediário |
-| [Calculator](./Projects/1-Beginner/Calculator-App.md)                             | Calculator                                                 | 1-Intermediário |
-| [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Intermediário |
-| [Cause Effect App](./Projects/1-Beginner/Cause-Effect-App.md)                     | Click list item to display item details                    | 1-Intermediário |
+| [ Unitário: Método Desconto](./unitario/)                                         | Valida Método de Desconto                                  | 1-Intermediário |
+
 
 #### :cold_sweat: Nível Avançado 
 
 | Nome                                                                              | Descrição                                                  | Nível      |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | -----------|
-| [ Funcional: Verifica Cadastro de Pacientes](./Projects/1-Beginner/Bin2Dec-App.md)| Binary-to-Decimal number converter                         | 1-Avançado |
-| [Border Radius Previewer](./Projects/1-Beginner/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element    | 1-Avançado |
-| [Calculator](./Projects/1-Beginner/Calculator-App.md)                             | Calculator                                                 | 1-Avançado |
-| [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Avançado |
-| [Cause Effect App](./Projects/1-Beginner/Cause-Effect-App.md)                     | Click list item to display item details                    | 1-Avançado |
+| [ Unitário: Método Desconto](./unitario/)                                         | Valida Método de Desconto                                  | 1-Avançado |
+| [Integração: ](./integracao/)                                                     | Preview how CSS3 border-radius values affect an element               | 1-Avançado |
+
 
 
 
