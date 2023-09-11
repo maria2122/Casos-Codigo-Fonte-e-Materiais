@@ -80,9 +80,9 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 
 | Nome                                                                              | Descrição                                                  | Nível        |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------ |
-| [ Funcional: Verifica Cadastro de Pacientes](./funcional/)| Binary-to-Decimal number converter                         | 1-Inicitante |
-| [ Funcional: Valida visibilidade de Campos](./funcional/)    | 1-Inicitante |
-| [Calculator](./Projects/1-Beginner/Calculator-App.md)                             | Calculator                                                 | 1-Inicitante |
+| [ Funcional: Cadastro de Pacientes](./funcional/)                                 | Verificar Cadastro de Pacientes                            | 1-Inicitante |
+| [ Funcional: Cadastro de Alunos](./funcional/)                                    | Valida visibilidade de Campos                              | 1-Inicitante |
+| [ Não Funcional : Níveis e Acesso](./nao_funcional/)                              | Valida Níveis de Acesso                                    | 1-Inicitante |
 | [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Inicitante |
 | [Cause Effect App](./Projects/1-Beginner/Cause-Effect-App.md)                     | Click list item to display item details                    | 1-Inicitante |
 
