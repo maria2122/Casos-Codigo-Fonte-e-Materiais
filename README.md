@@ -95,12 +95,15 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 
 | Nome                                                                              | Descrição                                                  | Nível      |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | -----------|
-| [ Unitário: Método Desconto](./unitario/)                                         | Valida Método de Desconto                                  | 1-Avançado |
+| [ Unitário: Projeto FitHere](./unitario/)                                         | Projeto FitHere                                            | 1-Avançado |
 | [Integração: Módulos Financeiro e Contabilidade](./integracao/)                   | Valida Integração  Módulos Financeiro e Contabilidade      | 1-Avançado |
 
 
-Referências:
 
+
+
+
+Referências:
 https://www.ic.unicamp.br/~meidanis/courses/mc626/2014s1/materiais/slides/Aula15-Testes-caixa-preta-2-tabela-decisao-casos-uso.pdf
 https://roadmap.sh/qa
 https://www.guru99.com/v-model-software-testing.html
