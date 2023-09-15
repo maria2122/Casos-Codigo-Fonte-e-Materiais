@@ -1,3 +1,8 @@
+# SOBRE
+
+> [!NOTE]
+> [ Apresentação do projeto](.SOBRE.md/)   
+
 # :rocket: Teste de Software: Um Guia Prático em Casos 
 
 Este guia de casos foi desenvolvido por meio da metodologia Aprendizagem Baseada em Casos, com o objetivo de ser acessível e também aplicável em disciplinas de Engenharia de Software
