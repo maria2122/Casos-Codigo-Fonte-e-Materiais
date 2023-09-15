@@ -1,5 +1,5 @@
 # :beetle: Sobre
-# > [!NOTE]
+> [!NOTE]
 # > [Apresentação do projeto](SOBRE.md)   
 
 # :rocket: Teste de Software: Um Guia Prático em Casos 
