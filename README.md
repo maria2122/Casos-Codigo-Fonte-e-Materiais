@@ -50,7 +50,6 @@ software de alta qualidade que atenda às expectativas dos seus usuários.
 
 > [!WARNING]
 > O que um CASO/ESTÓRIA não é:
-
 > NÃO é apenas um CASO DE TESTE
 > 
 > NÃO é penas um EXEMPLO
