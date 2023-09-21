@@ -46,7 +46,10 @@ software de alta qualidade que atenda às expectativas dos seus usuários.
 
 1. [Técnicas de Teste](#tecnicateste)
 2. [Critérios de Teste](#criterioteste)   
-3. [Modelos de Estórias](#casos)
+3. [Modelos de Casos/Estórias](#casos)
+
+> [!NOTE]
+> [O que um caso/estória não é:]   
 
 ### 1. Técnicas de Teste <a name="tecnicateste"></a>
 Como é inviável testar todos cenários possíveis pela quantidade infinita de combinações, utilizamos heurísticas(técnicas) de teste que são guias de como se projetar bons casos de testes.
