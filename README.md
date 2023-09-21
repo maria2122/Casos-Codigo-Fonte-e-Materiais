@@ -81,7 +81,7 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 > O que um CASO/ESTÓRIA não é:
 >
 > - NÃO é apenas um CASO DE TESTE 
-> - NÃO é penas um EXEMPLO 
+> - NÃO é apenas um EXEMPLO 
 > - NÃO busca resposta CERTA X ERRADA 
 > - NÃO recebe o conhecimento e sim CONSTRÓI o conhecimento
 
