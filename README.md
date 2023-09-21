@@ -50,10 +50,11 @@ software de alta qualidade que atenda às expectativas dos seus usuários.
 
 > [!WARNING]
 > O que um CASO/ESTÓRIA não é:
-- NÃO é apenas um CASO DE TESTE 
-- NÃO é penas um EXEMPLO 
-- NÃO busca resposta CERTA X ERRADA 
-- NÂO recebe o conhecimento e sim CONSTRÓI o conhecimento
+>
+> - NÃO é apenas um CASO DE TESTE 
+> - NÃO é penas um EXEMPLO 
+> - NÃO busca resposta CERTA X ERRADA 
+> - NÂO recebe o conhecimento e sim CONSTRÓI o conhecimento
 
 ### 1. Técnicas de Teste <a name="tecnicateste"></a>
 Como é inviável testar todos cenários possíveis pela quantidade infinita de combinações, utilizamos heurísticas(técnicas) de teste que são guias de como se projetar bons casos de testes.
