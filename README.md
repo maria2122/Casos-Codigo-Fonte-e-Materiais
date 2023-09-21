@@ -48,14 +48,6 @@ software de alta qualidade que atenda às expectativas dos seus usuários.
 2. [Critérios de Teste](#criterioteste)   
 3. [Modelos de Casos/Estórias](#casos)
 
-> [!WARNING]
-> O que um CASO/ESTÓRIA não é:
->
-> - NÃO é apenas um CASO DE TESTE 
-> - NÃO é penas um EXEMPLO 
-> - NÃO busca resposta CERTA X ERRADA 
-> - NÂO recebe o conhecimento e sim CONSTRÓI o conhecimento
-
 ### 1. Técnicas de Teste <a name="tecnicateste"></a>
 Como é inviável testar todos cenários possíveis pela quantidade infinita de combinações, utilizamos heurísticas(técnicas) de teste que são guias de como se projetar bons casos de testes.
 As mais conhecidas são:
@@ -82,6 +74,14 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+> [!WARNING]
+> O que um CASO/ESTÓRIA não é:
+>
+> - NÃO é apenas um CASO DE TESTE 
+> - NÃO é penas um EXEMPLO 
+> - NÃO busca resposta CERTA X ERRADA 
+> - NÃO recebe o conhecimento e sim CONSTRÓI o conhecimento
 
 ### 3. Modelos de Estórias <a name="casos"></a>
 
