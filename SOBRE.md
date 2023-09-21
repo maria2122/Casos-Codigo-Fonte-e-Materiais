@@ -1,7 +1,7 @@
 
 ----------------------------------------------------------------------------------------
 
-# **Contextualização:**
+# ℹ️ **Contextualização:**
 
 ## Esse projeto faz parte do etudo conduzido por [Maria Jaqueline dos Santos Silva](http://lattes.cnpq.br/3693465250768493), no contexto de sua graduação no Instituto Federal de Ciência e Tecnologia(IFSULDEMINAS), Campus Muzambinho, Muzambinho-MG. Maria também é Engenheira de Software Júnior na empresa LEVTY, Juiz de Fora - MG.  
 
