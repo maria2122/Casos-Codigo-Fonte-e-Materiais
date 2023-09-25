@@ -1,18 +1,8 @@
-from test import *
 # impotação da biblioteca 'unittest' que possibilita o teste de unidade
 import unittest
+# impotação da classe a ser testada
+from operacoes import Operacoes
 
-#Classe Operaçãoes contendo as operações básicas: 'desconto' e 'acréscimo'
-class Operacoes:
-
-    def calcula_preco_com_desconto(self, valor, porcentagem):
-        desconto = (valor * porcentagem) / 100
-        return valor + desconto
-    
-    def calcula_preco_com_acrescimo(self, valor, porcentagem):
-        acrescimo = (valor * porcentagem) / 100
-        return valor + acrescimo
-    
 # Classe de teste que herda de unittest.TestCase
 class TestCalculaDesconto(unittest.TestCase):
     def test_calcula_preco_com_desconto(self):
