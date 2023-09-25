@@ -1,3 +1,4 @@
+from test import *
 # impotação da biblioteca 'unittest' que possibilita o teste de unidade
 import unittest
 
