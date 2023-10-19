@@ -33,13 +33,13 @@ Martin Fowler, em seu livro Refatoração, afirma que:
  Se você observar como a maioria dos programadores gasta o tempo, verá que escrever código, na verdade, representa uma pequena fração desse tempo.
 > Uma parte é gasta para descobrir o que está acontecendo, outra, no design, mais a maior parte do tempo é gasta com depuração [...]
 
-Essa reflexão que Martin faz pensarmos qual atenção estamos dando ao teste de software.
+Essa reflexão de Martin faz pensarmos sobre a atenção que estamos dando ao teste de software.
 Será que vale a pena realizar entregas rápidas, quando temos que gastar vários dias de depuração procurando por bugs?
 
 O Ciclo de Vida de Desenvolvimento de Software (SDLC) contempla todo o processo para entrega de um produto, geralmente constituído pelas etapas de
-planejamento, modelagem, construção e aprimoramento. 
+planejamento, modelagem, construção, implementação e aprimoramento. 
 
-O teste de software não é apenas uma etapa final do ciclo de desenvolvimento e sim uma disciplina que permeia todo o processo, garantindo que você entregue 
+Dentro desse ciclo, o teste de software, pode ser incorporado em todas as etapas do processo, e não é apenas sendo uma etapa final do ciclo de desenvolvimento, garantindo que você entregue 
 software de alta qualidade que atenda às expectativas dos seus usuários. 
 
 ## :dart: Roteiro 
