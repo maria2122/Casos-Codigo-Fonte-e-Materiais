@@ -42,8 +42,6 @@ planejamento, modelagem, construção, implementação e aprimoramento.
 Dentro desse ciclo, o teste de software, pode ser incorporado em todas as etapas do processo de desenvolvimento, e não é apenas sendo uma etapa final do ciclo de desenvolvimento, garantindo que você entregue 
 software de alta qualidade que atenda às expectativas dos seus usuários. 
 
-# Organização do Guia
-
 ## :dart: Roteiro 
 
 1. [Técnicas de Teste](#tecnicateste)
