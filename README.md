@@ -39,8 +39,10 @@ Será que vale a pena realizar entregas rápidas, quando temos que gastar vário
 O Ciclo de Vida de Desenvolvimento de Software (SDLC) contempla todo o processo para entrega de um produto, geralmente constituído pelas etapas de
 planejamento, modelagem, construção, implementação e aprimoramento. 
 
-Dentro desse ciclo, o teste de software, pode ser incorporado em todas as etapas do processo, e não é apenas sendo uma etapa final do ciclo de desenvolvimento, garantindo que você entregue 
+Dentro desse ciclo, o teste de software, pode ser incorporado em todas as etapas do processo de desenvolvimento, e não é apenas sendo uma etapa final do ciclo de desenvolvimento, garantindo que você entregue 
 software de alta qualidade que atenda às expectativas dos seus usuários. 
+
+# Organização do Guia
 
 ## :dart: Roteiro 
 
