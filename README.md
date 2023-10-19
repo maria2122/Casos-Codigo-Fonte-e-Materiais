@@ -54,10 +54,10 @@ As mais conhecidas são:
 
 | Técnica de Teste | Objetivo                                                                                                                                                                         |
 | :--:    | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Teste caixa branca ou Teste Estrutural                          | Exige um conhecimento da estrutura interna, o design e a codificação do software são testados para verificar o fluxo de entrada-saída e melhorar o design, a usabilidade e a segurança. No teste de caixa branca, o código é visível para os testadores, por isso também é chamado de teste de caixa clara, teste de caixa aberta, teste de caixa transparente, teste baseado em código e teste de caixa de vidro.                                                                                                         |
-|  Teste caixa preta / Teste Funcional / Baseado em Especificação  | Não se exige um conhecimento do funcionamenrto interno do software, o objetivo é verificar se o comportamento da funcionalidade está ocorrendo de acordo com o esperado na especificação                                                                                                                               |
+|  Teste caixa branca ou Teste Estrutural                          | Exige um conhecimento da estrutura interna, o design e a codificação do software são testados para verificar o fluxo de entrada-saída e melhorar o design, a usabilidade e a segurança. No teste de caixa branca, o código é visível para os testadores, por isso também é chamado de teste de caixa clara, teste de caixa aberta, teste de caixa transparente, **teste baseado em código** e teste de caixa de vidro.                                                                                                         |
+|  Teste caixa preta / Teste Funcional / Baseado em Especificação  | Não se exige um conhecimento do funcionamenrto interno do software, o objetivo é verificar se o comportamento da funcionalidade está ocorrendo de acordo com o **esperado na especificação**                                                                                                                               |
 
-As técnicas de teste utilizam os chamados "Critérios de Teste" para definir o que é importante de ser testado, evitando assim redundância de testes.
+As técnicas de teste utilizam os chamados "Critérios de Teste" para definir o que é importante de ser testado, evitando assim a redundância.
 
 ### 2. Critérios de Teste <a name="criterioteste"></a>
 
@@ -69,8 +69,8 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 
 | Critério | Objetivo                                                                                                                                                                        |
 | :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Teste caixa branca ou Teste Estrutural                          | Baseados na Complexidade, Baseados em Fluxo de Controle e Baseados em Fluxo de Dados          |
-|  Teste caixa preta / Teste Funcional / Baseado em Especificação  |  Particionamento em Classes de Equivalência, Análise do Valor Limite e Grafo Causa-Efeito |
+|  Teste Caixa Branca ou Teste Estrutural                          | Baseados na Complexidade, Baseados em Fluxo de Controle e Baseados em Fluxo de Dados          |
+|  Teste Caixa Preta / Teste Funcional / Baseado em Especificação  |  Particionamento em Classes de Equivalência, Análise do Valor Limite e Grafo Causa-Efeito |
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -98,7 +98,7 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 | Nome                                                                              | Descrição                                                  | Nível        |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------ |
 | [ Funcional: Cadastro de Pacientes](./funcional/)                                 | Verificar Cadastro de Pacientes                            | 1-Inicitante |
-| [ Funcional: Cadastro de Alunos](./funcional/)                                    | Valida visibilidade de Campos                              | 1-Inicitante |
+| [ Funcional: Cadastro de Alunos](./funcional/)                                    | Valida Visibilidade de Campos                              | 1-Inicitante |
 | [ Não Funcional : Níveis e Acesso](./nao_funcional/)                              | Valida Níveis de Acesso                                    | 1-Inicitante |
 
 #### :muscle: Nível Intermediário 
@@ -122,6 +122,8 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 
 Referências:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 https://www.youtube.com/watch?v=tIfEB66njB4&t=569s
 https://www.ic.unicamp.br/~meidanis/courses/mc626/2014s1/materiais/slides/Aula15-Testes-caixa-preta-2-tabela-decisao-casos-uso.pdf
 https://roadmap.sh/qa
