@@ -90,7 +90,7 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 | Nível |   Perfil do Aluno                                                                                                                                                                    |
 | :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
 |  1 - Iniciante     | Alunos que tenham conhecimento em lógica de programação, algoritmos e já tenham tido contato com as linguagens : HTML, CSS e JAVASCRIPT                                 |
-|  2 - Intermediário | Alunos que tenham desenvolvido uma aplicação básica em qualquer linguagem atuando nas camadas BACKEND (Servidor de Aplicação, Persistência em Banco de Dados) e FRONTEND (Aplicação Cliente)|
+|  2 - Intermediário | Alunos que tenham desenvolvido uma aplicação básica em qualquer linguagem atuando nas camadas BACKEND (Servidor de Aplicação, Persistência em Banco de Dados) e FRONTEND (Aplicação Cliente, Interfaces e Frameworks)|
 |  3 - Avançado      | Alunos que tenham experiência acadêmica ou profissional em desenvolvimento de projetos nas camadas BACKEND e FRONTEND, bem como padrões de projetos, processos da Engenharia de Software(analise de requisitos, modelagem, construção e teste, manutenção) e controle de versão                                                                                                 |
 
 #### :white_check_mark: Nível Iniciante
