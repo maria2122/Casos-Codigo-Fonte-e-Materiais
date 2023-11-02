@@ -33,13 +33,13 @@ Martin Fowler, em seu livro Refatoração, afirma que:
  Se você observar como a maioria dos programadores gasta o tempo, verá que escrever código, na verdade, representa uma pequena fração desse tempo.
 > Uma parte é gasta para descobrir o que está acontecendo, outra, no design, mais a maior parte do tempo é gasta com depuração [...]
 
-Essa reflexão que Martin faz pensarmos qual atenção estamos dando ao teste de software.
+Essa reflexão de Martin faz pensarmos sobre a atenção que estamos dando ao teste de software.
 Será que vale a pena realizar entregas rápidas, quando temos que gastar vários dias de depuração procurando por bugs?
 
 O Ciclo de Vida de Desenvolvimento de Software (SDLC) contempla todo o processo para entrega de um produto, geralmente constituído pelas etapas de
-planejamento, modelagem, construção e aprimoramento. 
+planejamento, modelagem, construção, implementação e aprimoramento. 
 
-O teste de software não é apenas uma etapa final do ciclo de desenvolvimento e sim uma disciplina que permeia todo o processo, garantindo que você entregue 
+Dentro desse ciclo, o teste de software, pode ser incorporado em todas as etapas do processo de desenvolvimento, e não é apenas sendo uma etapa final do ciclo de desenvolvimento, garantindo que você entregue 
 software de alta qualidade que atenda às expectativas dos seus usuários. 
 
 ## :dart: Roteiro 
@@ -54,10 +54,10 @@ As mais conhecidas são:
 
 | Técnica de Teste | Objetivo                                                                                                                                                                         |
 | :--:    | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Teste caixa branca ou Teste Estrutural                          | Exige um conhecimento da estrutura interna, o design e a codificação do software são testados para verificar o fluxo de entrada-saída e melhorar o design, a usabilidade e a segurança. No teste de caixa branca, o código é visível para os testadores, por isso também é chamado de teste de caixa clara, teste de caixa aberta, teste de caixa transparente, teste baseado em código e teste de caixa de vidro.                                                                                                         |
-|  Teste caixa preta / Teste Funcional / Baseado em Especificação  | Não se exige um conhecimento do funcionamenrto interno do software, o objetivo é verificar se o comportamento da funcionalidade está ocorrendo de acordo com o esperado na especificação                                                                                                                               |
+|  Teste caixa branca ou Teste Estrutural                          | Exige um conhecimento da estrutura interna, o design e a codificação do software são testados para verificar o fluxo de entrada-saída e melhorar o design, a usabilidade e a segurança. No teste de caixa branca, o código é visível para os testadores, por isso também é chamado de teste de caixa clara, teste de caixa aberta, teste de caixa transparente, **teste baseado em código** e teste de caixa de vidro.                                                                                                         |
+|  Teste caixa preta / Teste Funcional / Baseado em Especificação  | Não se exige um conhecimento do funcionamenrto interno do software, o objetivo é verificar se o comportamento da funcionalidade está ocorrendo de acordo com o **esperado na especificação**                                                                                                                               |
 
-As técnicas de teste utilizam os chamados "Critérios de Teste" para definir o que é importante de ser testado, evitando assim redundância de testes.
+As técnicas de teste utilizam os chamados "Critérios de Teste" para definir o que é importante de ser testado, evitando assim a redundância.
 
 ### 2. Critérios de Teste <a name="criterioteste"></a>
 
@@ -69,8 +69,8 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 
 | Critério | Objetivo                                                                                                                                                                        |
 | :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Teste caixa branca ou Teste Estrutural                          | Baseados na Complexidade, Baseados em Fluxo de Controle e Baseados em Fluxo de Dados          |
-|  Teste caixa preta / Teste Funcional / Baseado em Especificação  |  Particionamento em Classes de Equivalência, Análise do Valor Limite e Grafo Causa-Efeito |
+|  Teste Caixa Branca ou Teste Estrutural                          | Baseados na Complexidade, Baseados em Fluxo de Controle e Baseados em Fluxo de Dados          |
+|  Teste Caixa Preta / Teste Funcional / Baseado em Especificação  |  Particionamento em Classes de Equivalência, Análise do Valor Limite e Grafo Causa-Efeito |
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -90,7 +90,7 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 | Nível |   Perfil do Aluno                                                                                                                                                                    |
 | :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
 |  1 - Iniciante     | Alunos que tenham conhecimento em lógica de programação, algoritmos e já tenham tido contato com as linguagens : HTML, CSS e JAVASCRIPT                                 |
-|  2 - Intermediário | Alunos que tenham desenvolvido uma aplicação básica em qualquer linguagem atuando nas camadas BACKEND (Servidor de Aplicação, Persistência em Banco de Dados) e FRONTEND (Aplicação Cliente)|
+|  2 - Intermediário | Alunos que tenham desenvolvido uma aplicação básica em qualquer linguagem atuando nas camadas BACKEND (Servidor de Aplicação, Persistência em Banco de Dados) e FRONTEND (Aplicação Cliente, Interfaces e Frameworks)|
 |  3 - Avançado      | Alunos que tenham experiência acadêmica ou profissional em desenvolvimento de projetos nas camadas BACKEND e FRONTEND, bem como padrões de projetos, processos da Engenharia de Software(analise de requisitos, modelagem, construção e teste, manutenção) e controle de versão                                                                                                 |
 
 #### :white_check_mark: Nível Iniciante
@@ -98,22 +98,22 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 | Nome                                                                              | Descrição                                                  | Nível        |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------ |
 | [ Funcional: Cadastro de Pacientes](./funcional/)                                 | Verificar Cadastro de Pacientes                            | 1-Inicitante |
-| [ Funcional: Cadastro de Alunos](./funcional/)                                    | Valida visibilidade de Campos                              | 1-Inicitante |
+| [ Funcional: Cadastro de Alunos](./funcional/)                                    | Valida Visibilidade de Campos                              | 1-Inicitante |
 | [ Não Funcional : Níveis e Acesso](./nao_funcional/)                              | Valida Níveis de Acesso                                    | 1-Inicitante |
 
 #### :muscle: Nível Intermediário 
 
 | Nome                                                                              | Descrição                                                  | Nível           |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------|
-| [ Unitário: Método Desconto](./unitario/)                                         | Valida Método de Desconto                                  | 2-Intermediário |
+| [ Unitário: Método Desconto](./estrutural/unitario)                                         | Valida Método de Desconto                                  | 2-Intermediário |
 | [ Estrutural: Calculadora](./estrutural/)                                         | Fluxo de controle de uma Calculadora                       | 2-Intermediário |
 
 #### :cold_sweat: Nível Avançado 
 
 | Nome                                                                              | Descrição                                                  | Nível      |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | -----------|
-| [ Unitário: Projeto FitHere](./unitario/)                                         | Projeto FitHere                                            | 3-Avançado |
-| [Integração: Módulos Financeiro e Contabilidade](./integracao/)                   | Valida Integração  Módulos Financeiro e Contabilidade      | 3-Avançado |
+| [ Unitário: Projeto FitHere](./estrutural/unitario/)                                         | Projeto FitHere                                            | 3-Avançado |
+| [Integração: Módulos Financeiro e Contabilidade](./funcional/integracao/)                   | Valida Integração  Módulos Financeiro e Contabilidade      | 3-Avançado |
 
 
 
@@ -122,6 +122,8 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 
 Referências:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 https://www.youtube.com/watch?v=tIfEB66njB4&t=569s
 https://www.ic.unicamp.br/~meidanis/courses/mc626/2014s1/materiais/slides/Aula15-Testes-caixa-preta-2-tabela-decisao-casos-uso.pdf
 https://roadmap.sh/qa
