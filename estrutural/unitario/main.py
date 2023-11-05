@@ -6,10 +6,12 @@ porcentagem = 20
 operacoes = Operacoes()
 resultado = 0
 
-# São 10 parcelas são fixas com 20% de desconto no valor fixo de 100.00
+# São 10 parcelas fixas com 20% de desconto fixo e valor variável de 100.00
 parcela = 10
-while parcela > 0:
-    resultado += operacoes.calcula_preco_com_desconto(valor, porcentagem)
-    parcela-=1
-
-print(resultado)
+try :
+    while parcela > 0:
+        resultado += operacoes.calcula_preco_com_desconto(valor, porcentagem)
+        parcela-=1
+    print(resultado)
+except Exception as e: 
+    print(e)

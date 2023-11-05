@@ -1,6 +1,6 @@
-# impotação da biblioteca 'unittest' que possibilita o teste de unidade
+# importação da biblioteca 'unittest' que possibilita o teste de unidade
 import unittest
-# impotação da classe a ser testada
+# importação da classe a ser testada
 from operacoes import Operacoes
 
 # Classe de teste que herda de unittest.TestCase
@@ -16,7 +16,7 @@ class TestOperacoes(unittest.TestCase):
     
     def test_calcula_preco_com_acrescimo(self):
 
-        valor = 100
+        valor = -100
         porcentagem = 20
         operacoes = Operacoes()
         resultado = operacoes.calcula_preco_com_acrescimo(valor, porcentagem)
