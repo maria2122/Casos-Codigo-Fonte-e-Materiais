@@ -1,3 +1,3 @@
-Para rodar o teste desse diretório basta executar
+Para instalar as dependências do teste, basta rodar o comando abaixo:
 
 `pip install -r requirements.txt`
