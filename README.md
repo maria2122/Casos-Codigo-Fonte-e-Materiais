@@ -45,8 +45,11 @@ software de alta qualidade que atenda às expectativas dos seus usuários.
 ## :dart: Roteiro 
 
 1. [Técnicas de Teste](#tecnicateste)
-2. [Critérios de Teste](#criterioteste)   
-3. [Modelos de Casos/Estórias](#casos)
+2. [Critérios de Teste](#criterioteste)
+3. Templates:
+   - [Funcional](#funcional)
+   - [Estrutural](#estrutural)
+5. [Modelos de Casos/Estórias](#casos)
 
 ### 1. Técnicas de Teste <a name="tecnicateste"></a>
 Como é inviável testar todos cenários possíveis pela quantidade infinita de combinações, utilizamos heurísticas(técnicas) de teste que são guias de como se projetar bons casos de testes.
