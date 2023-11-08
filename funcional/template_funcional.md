@@ -1,4 +1,4 @@
-# O template também pode ser acessado em 
+# O template para Testes Funcionais também pode ser acessado em:
 
 https://docs.google.com/document/d/1RdG_XKgvYdxRzPXjMMicgPi3h6lyFZfQrEsXTkSxU90/edit?usp=sharing
 
