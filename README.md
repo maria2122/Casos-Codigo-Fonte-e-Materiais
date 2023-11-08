@@ -46,9 +46,8 @@ software de alta qualidade que atenda às expectativas dos seus usuários.
 
 1. [Técnicas de Teste](#tecnicateste)
 2. [Critérios de Teste](#criterioteste)
-3. Templates:
-   - [Funcional](#funcional)
-   - [Estrutural](#estrutural)
+3. [Template Funcional](#funcional)
+4. [Template Estrutural](#estrutural)
 5. [Modelos de Casos/Estórias](#casos)
 
 ### 1. Técnicas de Teste <a name="tecnicateste"></a>
