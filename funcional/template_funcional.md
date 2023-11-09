@@ -2,7 +2,7 @@
 
 https://docs.google.com/document/d/1RdG_XKgvYdxRzPXjMMicgPi3h6lyFZfQrEsXTkSxU90/edit?usp=sharing
 
-# Estórias Teste Funcional
+# Estórias Testes Funcionais
 
 - Valida Visibilidade de Campos:
   - https://docs.google.com/document/d/16G8MJRK_eI04Pz76TVssiHNcQ8nCVg-JTJ4ULjNOAHI/edit?usp=sharing

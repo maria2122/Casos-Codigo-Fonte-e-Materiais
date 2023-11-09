@@ -108,7 +108,7 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 | Nome                                                                              | Descrição                                                  | Nível           |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------|
 | [ Unitário: Método Desconto](./estrutural/unitario)                                         | Valida Método de Desconto                                  | 2-Intermediário |
-| [ Estrutural: Calculadora](./estrutural/)                                         | Fluxo de controle de uma Calculadora                       | 2-Intermediário |
+| [ Estrutural: Calculadora](./estrutural/template_estrutural.md)                                         | Fluxo de controle de uma Calculadora                       | 2-Intermediário |
 
 #### :cold_sweat: Nível Avançado 
 
