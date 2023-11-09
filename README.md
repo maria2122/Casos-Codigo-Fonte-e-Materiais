@@ -114,7 +114,6 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 
 | Nome                                                                              | Descrição                                                  | Nível      |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | -----------|
-| [ Unitário: Projeto FitHere](./estrutural/unitario/)                                         | Projeto FitHere                                            | 3-Avançado |
 | [Integração: Módulos Financeiro e Contabilidade](./funcional/integracao/)                   | Valida Integração  Módulos Financeiro e Contabilidade      | 3-Avançado |
 
 
