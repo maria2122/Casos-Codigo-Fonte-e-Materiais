@@ -5,7 +5,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# :rocket: Teste de Software: Um Guia Prático em Casos 
+# :rocket: Um Repositório de Casos para Apoiar o Ensino de Teste de Software 
 
 Este guia de casos foi desenvolvido por meio da metodologia Aprendizagem Baseada em Casos, com o objetivo de ser acessível e também aplicável em disciplinas de Engenharia de Software
 ou qualquer pessoa que esteja interessada, independentemente do seu nível de experiência. À medida que você avança, encontrará não apenas teoria, mas também orientações práticas e 
