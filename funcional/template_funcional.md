@@ -13,4 +13,7 @@ https://docs.google.com/document/d/1RdG_XKgvYdxRzPXjMMicgPi3h6lyFZfQrEsXTkSxU90/
 - Integração dos módulos Financeiro e Contabilidade: 
   - https://docs.google.com/document/d/1LlkfZJ-MxYhFwL16d_F1nzF5ZQ6YqQw-QoSK6QPaois/edit?usp=sharing
 
+- Níveis de Acesso:
+  - https://docs.google.com/document/d/1R_epzkqvgcIB2qy1WMIhNc1emHQqjOxzcZIht8Wwsf0/edit?usp=sharing
+
 
