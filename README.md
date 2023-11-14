@@ -7,13 +7,11 @@
 
 # :rocket: Um Repositório de Casos para Apoiar o Ensino de Teste de Software 
 
-Este guia de casos foi desenvolvido por meio da metodologia Aprendizagem Baseada em Casos, com o objetivo de ser acessível e também aplicável em disciplinas de Engenharia de Software
-ou qualquer pessoa que esteja interessada, independentemente do seu nível de experiência. À medida que você avança, encontrará não apenas teoria, mas também orientações práticas e 
-exemplos mais próximos do real que o ajudarão a aprimorar suas habilidades de teste de software.
+Este repositório de casos foi construído tendo como base os trabalhos “Casos em Administração”, (COSTA, 2023), que orientam sobre a construção de casos que podem ser utilizados no contexto da estratégia ativa Aprendizagem Baseada em Casos com o objetivo de serem aplicáveis em disciplinas de Engenharia de Software ou qualquer pessoa interessada, independentemente do seu nível de experiência. À medida que você avança, encontrará não apenas teoria, mas também orientações práticas e exemplos mais próximos do real que o ajudarão a aprimorar suas habilidades de teste de software.
 
 ## :bulb: Como a Aprendizagem Baseada em Casos pode contribuir no ensino em teste de software?
 
-A Aprendizagem Baseada em Casos é uma estratégia ativa que utiliza estudo de casos envolvendo o aluno no ambiente de aprendizagem, tornando-o protagonista daquele cenário, 
+A Aprendizagem Baseada em Casos é uma estratégia ativa que utiliza casos envolvendo o aluno no ambiente de aprendizagem, tornando-o protagonista daquele cenário, 
 proporcionando ao mesmo uma experiência cada vez mais significativa dentro da sala de aula.
 
 O que é um caso?
@@ -39,16 +37,18 @@ Será que vale a pena realizar entregas rápidas, quando temos que gastar vário
 O Ciclo de Vida de Desenvolvimento de Software (SDLC) contempla todo o processo para entrega de um produto, geralmente constituído pelas etapas de
 planejamento, modelagem, construção, implementação e aprimoramento. 
 
-Dentro desse ciclo, o teste de software, pode ser incorporado em todas as etapas do processo de desenvolvimento, e não é apenas sendo uma etapa final do ciclo de desenvolvimento, garantindo que você entregue 
+Dentro desse ciclo, o teste de software pode ser incorporado em todas as etapas do processo de desenvolvimento, e não é apenas sendo uma etapa final do ciclo de desenvolvimento, garantindo que você entregue 
 software de alta qualidade que atenda às expectativas dos seus usuários. 
 
-## :dart: Roteiro 
+## :dart: Roteiro para Educadores: Como usar este repositório
+
+[Introduzir aqui]
 
 1. [Técnicas de Teste](#tecnicateste)
 2. [Critérios de Teste](#criterioteste)
-3. [Template Funcional](./funcional/template_funcional.md)
-4. [Template Estrutural](./estrutural/template_estrutural.md)
-5. [Modelos de Casos/Estórias](#casos)
+3. [Roteiro Funcional](./funcional/template_funcional.md)
+4. [Roteiro Estrutural](./estrutural/template_estrutural.md)
+5. [Casos](#casos)
 
 ### 1. Técnicas de Teste <a name="tecnicateste"></a>
 Como é inviável testar todos cenários possíveis pela quantidade infinita de combinações, utilizamos heurísticas(técnicas) de teste que são guias de como se projetar bons casos de testes.
