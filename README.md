@@ -110,14 +110,14 @@ Os casos foram categorizados em três níveis de complexidade (Inciante, Interme
 
 | Nome                                                                              | Descrição                                                  | Nível           |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------|
-| [ Unitário: Método Desconto](./estrutural/unitario)                                         | Valida Método de Desconto                                  | 2-Intermediário |
-| [ Estrutural: Calculadora](./estrutural/template_estrutural.md)                                         | Fluxo de controle de uma Calculadora                       | 2-Intermediário |
+| [Estrutural: Método Desconto](./estrutural/unitario)                                         | Valida Método de Desconto                                  | 2-Intermediário |
+| [Estrutural: Calculadora](./estrutural/template_estrutural.md)                                         | Fluxo de controle de uma Calculadora                       | 2-Intermediário |
 
 #### :cold_sweat: Nível Avançado 
 
 | Nome                                                                              | Descrição                                                  | Nível      |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | -----------|
-| [Integração: Módulos Financeiro e Contabilidade](./funcional/integracao/)                   | Valida Integração  Módulos Financeiro e Contabilidade      | 3-Avançado |
+| [Funcional: Módulos Financeiro e Contabilidade](./funcional/integracao/)                   | Valida Integração  Módulos Financeiro e Contabilidade      | 3-Avançado |
 
 
 
