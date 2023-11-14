@@ -5,7 +5,7 @@ https://docs.google.com/document/d/1RdG_XKgvYdxRzPXjMMicgPi3h6lyFZfQrEsXTkSxU90/
 # Estórias Testes Funcionais
 
 - Valida Visibilidade de Campos:
-  - https://docs.google.com/document/d/16G8MJRK_eI04Pz76TVssiHNcQ8nCVg-JTJ4ULjNOAHI/edit?usp=sharing
+  - https://docs.google.com/document/d/1N65molLxSZHBn3qbRDj6OBrOuvgQgZKyd3j0JEb32rE/edit?usp=sharing
     
 - Cadastro de Pacientes: 
   - https://docs.google.com/document/d/16G8MJRK_eI04Pz76TVssiHNcQ8nCVg-JTJ4ULjNOAHI/edit?usp=sharing
