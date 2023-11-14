@@ -89,7 +89,7 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 
 ### 3. Casos 
 
-[Introduzir aqui]
+Os casos foram categorizados em três níveis de complexidade (Inciante, Intermediário e Avançado),   proporcionando a flexibilidade necessária para serem abordados e adaptados ao nível específico da turma em que estão sendo aplicados.
 
 | Nível |   Perfil do Aluno                                                                                                                                                                    |
 | :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
@@ -97,13 +97,14 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 |  2 - Intermediário | Alunos que tenham desenvolvido uma aplicação básica em qualquer linguagem atuando nas camadas BACKEND (Servidor de Aplicação, Persistência em Banco de Dados) e FRONTEND (Aplicação Cliente, Interfaces e Frameworks)|
 |  3 - Avançado      | Alunos que tenham experiência acadêmica ou profissional em desenvolvimento de projetos nas camadas BACKEND e FRONTEND, bem como padrões de projetos, processos da Engenharia de Software(analise de requisitos, modelagem, construção e teste, manutenção) e controle de versão                                                                                                 |
 
+
 #### :white_check_mark: Nível Iniciante
 
 | Nome                                                                              | Descrição                                                  | Nível        |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------ |
 | [ Funcional: Cadastro de Pacientes](./funcional/)                                 | Verificar Cadastro de Pacientes                            | 1-Inicitante |
 | [ Funcional: Cadastro de Alunos](./funcional/)                                    | Valida Visibilidade de Campos                              | 1-Inicitante |
-| [ Funcional : Níveis e Acesso](./funcional/)                              | Valida Níveis de Acesso                                    | 1-Inicitante |
+| [ Funcional : Níveis e Acesso](./funcional/)                                      | Valida Níveis de Acesso                                    | 1-Inicitante |
 
 #### :muscle: Nível Intermediário 
 
