@@ -4,7 +4,7 @@ https://docs.google.com/document/d/1h1yhhccpBc_vsN6PJtwXpkvEbNzr0d5lqRKhkVFoBZQ/
 
 # Casos em Testes Estruturais:
 
-- Teste de Unidade Método de Desconto:
+- Método de Desconto:
   -  https://docs.google.com/document/d/1DM-ARr2XJHJJxnhRJLf6E-IQNsJ6cULhWZ16RvcJyuQ/edit?usp=sharing
 
 - Calculadora:
