@@ -80,14 +80,14 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 <a name="casos"></a>
 
 > [!WARNING]
-> O que um CASO/ESTÓRIA não é:
+> O que um CASO não é:
 >
 > - NÃO é apenas um CASO DE TESTE 
 > - NÃO é apenas um EXEMPLO 
 > - NÃO busca resposta CERTA X ERRADA 
 > - NÃO recebe o conhecimento e sim CONSTRÓI o conhecimento
 
-### 3. Modelos de Estórias 
+### 3. Casos 
 
 | Nível |   Perfil do Aluno                                                                                                                                                                    |
 | :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
