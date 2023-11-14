@@ -89,6 +89,8 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 
 ### 3. Casos 
 
+[Introduzir aqui]
+
 | Nível |   Perfil do Aluno                                                                                                                                                                    |
 | :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
 |  1 - Iniciante     | Alunos que tenham conhecimento em lógica de programação, algoritmos e já tenham tido contato com as linguagens : HTML, CSS e JAVASCRIPT                                 |
