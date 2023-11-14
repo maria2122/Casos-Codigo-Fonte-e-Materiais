@@ -42,7 +42,7 @@ software de alta qualidade que atenda às expectativas dos usuários.
 
 ## :dart: Roteiro para Educadores: Como usar este repositório
 
-Para revisar e contextualizar os aspectos centrais da área de Teste de Software, propomos o seguinte roteiro. Os itens 1 e 2 oferecem uma visão panorâmica das técnicas de teste (funcionais e estruturais) e critérios, enquanto os demais (itens 3, 4 e 5) fornecem recursos de apoio para educadores, incluindo roteiros e exemplos práticos de casos.
+Para revisar e contextualizar os aspectos centrais da área de Teste de Software, propomos o seguinte roteiro. Os itens 1 e 2 oferecem uma visão panorâmica das técnicas de teste (funcionais e estruturais) e critérios, enquanto os demais (itens 3, 4 e 5) fornecem recursos de apoio para educadores, incluindo roteiros e exemplos práticos de casos que podem ser trabalhados em sala.
 
 1. [Técnicas de Teste](#tecnicateste)
 2. [Critérios de Teste](#criterioteste)
