@@ -6,7 +6,7 @@
 ## Este trabalho faz parte do estudo conduzido por [Maria Jaqueline dos Santos Silva](http://lattes.cnpq.br/3693465250768493), no contexto de sua graduação no Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IFSULDEMINAS), Campus Muzambinho, Muzambinho-MG. Maria também é Engenheira de Software Júnior na empresa LEVTY, Juiz de Fora - MG.  
 
 # **Objetivo geral do projeto**:
-##  Validar os casos disponibilizados de forma gratuita como ferramenta apoio ao ensino em Teste de Software e contribuição com a área de Engenharia de Software e afins.
+##  Validar o repositório de casos disponibilizado de forma gratuita como ferramenta apoio ao ensino em Teste de Software e contribuição com a área de Engenharia de Software e afins.
 
 # **Colaboradores diretos:**
 
