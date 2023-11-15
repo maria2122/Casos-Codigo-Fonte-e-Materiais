@@ -102,9 +102,9 @@ Os casos foram categorizados em três níveis de complexidade (Inciante, Interme
 
 | Nome                                                                              | Descrição                                                  | Nível        |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------ |
-| [ Funcional: Cadastro de Pacientes](./funcional/)                                 | Verificar Cadastro de Pacientes                            | 1-Inicitante |
-| [ Funcional: Cadastro de Alunos](./funcional/)                                    | Valida Visibilidade de Campos                              | 1-Inicitante |
-| [ Funcional : Níveis e Acesso](./funcional/)                                      | Valida Níveis de Acesso                                    | 1-Inicitante |
+| [ Funcional: Cadastro de Pacientes](https://docs.google.com/document/d/16G8MJRK_eI04Pz76TVssiHNcQ8nCVg-JTJ4ULjNOAHI/edit?usp=sharing)| Verifica Obrigatoriedade dos Campos do Formulário de Cadastro de Pacientes | 1-Inicitante |
+| [ Funcional: Valida Visibilidade de Campos](https://docs.google.com/document/d/1N65molLxSZHBn3qbRDj6OBrOuvgQgZKyd3j0JEb32rE/edit?usp=sharing) | Valida Visibilidade de Campos                                     | 1-Inicitante |
+| [ Funcional : Níveis e Acesso](https://docs.google.com/document/d/1R_epzkqvgcIB2qy1WMIhNc1emHQqjOxzcZIht8Wwsf0/edit?usp=sharing)| Valida Níveis de Acesso                                                         | 1-Inicitante |
 
 #### :muscle: Nível Intermediário 
 
