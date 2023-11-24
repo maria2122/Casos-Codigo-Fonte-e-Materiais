@@ -89,7 +89,7 @@ De modo geral, um critério de teste se preocupa em responder as seguintes pergu
 
 ### 3. Casos 
 
-Os casos foram categorizados em três níveis de complexidade (Inciante, Intermediário e Avançado),   proporcionando a flexibilidade necessária para serem abordados e adaptados ao nível específico da turma em que estão sendo aplicados.
+Os casos foram categorizados em três níveis de complexidade (Iniciante, Intermediário e Avançado),   proporcionando a flexibilidade necessária para serem abordados e adaptados ao nível específico da turma em que estão sendo aplicados.
 
 | Nível |   Perfil do Aluno                                                                                                                                                                    |
 | :--:    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
