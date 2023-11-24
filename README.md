@@ -5,7 +5,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# :rocket: Um Repositório de Casos para Apoiar o Ensino de Teste de Software 
+# :rocket: Um Repositório de Casos para Apoiar o Ensino em Teste de Software 
 
 Este repositório de casos foi construído tendo como base os trabalhos “Casos em Administração”, (COSTA, 2023), que orientam sobre a construção de casos que podem ser utilizados no contexto da estratégia ativa Aprendizagem Baseada em Casos com o objetivo de serem aplicáveis em disciplinas de Engenharia de Software ou qualquer pessoa interessada, independentemente do seu nível de experiência. À medida que você avança, encontrará não apenas teoria, mas também orientações práticas e exemplos mais próximos do real que o ajudarão a aprimorar suas habilidades em teste de software.
 
