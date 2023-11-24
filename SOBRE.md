@@ -5,8 +5,8 @@
 
 ## Este trabalho faz parte do estudo conduzido por [Maria Jaqueline dos Santos Silva](http://lattes.cnpq.br/3693465250768493), no contexto de sua graduação no Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IFSULDEMINAS), Campus Muzambinho, Muzambinho-MG. Maria também é Engenheira de Software Júnior na empresa LEVTY, Juiz de Fora - MG.  
 
-# **Objetivo geral do projeto**:
-##  Validar o repositório de casos disponibilizado de forma gratuita como ferramenta apoio ao ensino em Teste de Software e contribuição com a área de Engenharia de Software e afins.
+# **Objetivo geral do trabalho**:
+##  Investigar como a Aprendizagem Baseada em Casos pode ser usada para apoiar o ensino de Teste de Software, com o objetivo de minimizar falhas e promover o engajamento dos estudantes no processo de desenvolvimento e teste de software.
 
 # **Colaboradores diretos:**
 
