@@ -46,8 +46,8 @@ Para revisar e contextualizar os aspectos centrais da área de Teste de Software
 
 1. [Técnicas de Teste](#tecnicateste)
 2. [Critérios de Teste](#criterioteste)
-3. [Roteiro Funcional](https://docs.google.com/document/d/1RdG_XKgvYdxRzPXjMMicgPi3h6lyFZfQrEsXTkSxU90/edit?usp=sharing)
-4. [Roteiro Estrutural](https://docs.google.com/document/d/1h1yhhccpBc_vsN6PJtwXpkvEbNzr0d5lqRKhkVFoBZQ/edit?usp=sharing)
+3. [Roteiro para Aplicação de Teste Funcional](https://docs.google.com/document/d/1RdG_XKgvYdxRzPXjMMicgPi3h6lyFZfQrEsXTkSxU90/edit?usp=sharing)
+4. [Roteiro para Aplicação de Teste Estrutural](https://docs.google.com/document/d/1h1yhhccpBc_vsN6PJtwXpkvEbNzr0d5lqRKhkVFoBZQ/edit?usp=sharing)
 5. [Casos](#casos)
 
 ### 1. Técnicas de Teste <a name="tecnicateste"></a>
