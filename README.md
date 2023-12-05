@@ -50,11 +50,15 @@ Para revisar e contextualizar os aspectos centrais da área de Teste de Software
 4. [Roteiro para Aplicação de Teste Estrutural](https://docs.google.com/document/d/1h1yhhccpBc_vsN6PJtwXpkvEbNzr0d5lqRKhkVFoBZQ/edit?usp=sharing)
 5. [Casos](#casos)
 
-### 1. Técnicas de Teste <a name="tecnicateste"></a>
+### 1. Técnicas e Tipos de Teste <a name="tecnicateste"></a>
+
 Como é inviável testar todos cenários possíveis pela quantidade infinita de combinações, utilizamos heurísticas(técnicas) de teste que são guias de como se projetar bons casos de testes.
+
+<img width="821" alt="image" src="https://github.com/maria2122/um-repositorio-de-casos-para-apoiar-o-ensino-de-teste-de-software/assets/58671604/99c8cc61-6d2f-415a-ab2d-ef45ae62d9db">
+
 As ténicas contempladas neste trabalho são:
 
-| Técnica de Teste Contempladas neste Trabalho | Objetivo                                                                                                                                                                         |
+| Técnicas de Teste Contempladas neste Trabalho | Objetivo                                                                                                                                                                         |
 | :--:    | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  Teste caixa branca ou Teste Estrutural                          | Exige um conhecimento da estrutura interna, o design e a codificação do software são testados para verificar o fluxo de entrada-saída e melhorar o design, a usabilidade e a segurança. No teste de caixa branca, o código é visível para os testadores, por isso também é chamado de teste de caixa clara, teste de caixa aberta, teste de caixa transparente, **teste baseado em código** e teste de caixa de vidro.                                                                                                         |
 |  Teste caixa preta / Teste Funcional / Baseado em Especificação  | Não se exige um conhecimento do funcionamenrto interno do software, o objetivo é verificar se o comportamento da funcionalidade está ocorrendo de acordo com o **esperado na especificação**                                                                                                                               |
