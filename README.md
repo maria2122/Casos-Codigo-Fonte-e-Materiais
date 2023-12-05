@@ -54,7 +54,7 @@ Para revisar e contextualizar os aspectos centrais da área de Teste de Software
 
 Como é inviável testar todos cenários possíveis pela quantidade infinita de combinações, utilizamos heurísticas(técnicas) de teste que são guias de como se projetar bons casos de testes.
 
-De modo geral, a área de Teste de Software é bem vasta e com isso sendo geralmente dividida em técinas e tipos de teste como demonstrado na figura abaixo.
+De modo geral, a área de Teste de Software é bem vasta sendo geralmente dividida em técnicas e tipos de teste como demonstrado na figura abaixo.
 
 <img width="821" alt="image" src="https://github.com/maria2122/um-repositorio-de-casos-para-apoiar-o-ensino-de-teste-de-software/assets/58671604/99c8cc61-6d2f-415a-ab2d-ef45ae62d9db">
 
