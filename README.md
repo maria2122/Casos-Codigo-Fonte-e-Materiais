@@ -52,7 +52,7 @@ Para revisar e contextualizar os aspectos centrais da área de Teste de Software
 
 ### 1. Técnicas de Teste <a name="tecnicateste"></a>
 Como é inviável testar todos cenários possíveis pela quantidade infinita de combinações, utilizamos heurísticas(técnicas) de teste que são guias de como se projetar bons casos de testes.
-As mais conhecidas são:
+As ténicas contempladas neste trabalho são:
 
 | Técnica de Teste | Objetivo                                                                                                                                                                         |
 | :--:    | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
