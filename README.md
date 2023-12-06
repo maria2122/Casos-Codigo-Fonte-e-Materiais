@@ -45,7 +45,7 @@ software de alta qualidade que atenda às expectativas dos usuários.
 Para revisar e contextualizar os aspectos centrais da área de Teste de Software, propomos o seguinte roteiro. Os itens 1 e 2 oferecem uma visão panorâmica das técnicas de teste (funcionais e estruturais) e critérios, enquanto os demais (itens 3, 4 e 5) fornecem recursos de apoio para educadores, incluindo roteiros e exemplos práticos de casos que podem ser trabalhados em sala.
 
 1. [Técnica de Teste Contempladas neste Trabalho](#tecnicateste)
-2. [Critérios de Teste](#criterioteste)
+2. [Critérios de Teste Contemplados neste Trabalho](#criterioteste)
 3. [Roteiro para Aplicação de Teste Funcional](https://docs.google.com/document/d/1RdG_XKgvYdxRzPXjMMicgPi3h6lyFZfQrEsXTkSxU90/edit?usp=sharing)
 4. [Roteiro para Aplicação de Teste Estrutural](https://docs.google.com/document/d/1h1yhhccpBc_vsN6PJtwXpkvEbNzr0d5lqRKhkVFoBZQ/edit?usp=sharing)
 5. [Casos](#casos)
@@ -68,7 +68,7 @@ As ténicas contempladas neste trabalho são:
 
 As técnicas de teste utilizam os chamados "Critérios de Teste" para definir o que é importante de ser testado, evitando assim a redundância.
 
-### 2. Critérios de Teste <a name="criterioteste"></a>
+### 2. Critérios de Teste Contemplados neste Trabalho <a name="criterioteste"></a>
 
 De modo geral, um critério de teste se preocupa em responder as seguintes perguntas:
 
