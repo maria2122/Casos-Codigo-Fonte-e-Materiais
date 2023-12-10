@@ -136,10 +136,18 @@ Referências:
 
 
 
-https://www.youtube.com/watch?v=tIfEB66njB4&t=569s
-https://www.ic.unicamp.br/~meidanis/courses/mc626/2014s1/materiais/slides/Aula15-Testes-caixa-preta-2-tabela-decisao-casos-uso.pdf
-https://roadmap.sh/qa
-https://www.guru99.com/v-model-software-testing.html
-https://www.iso.org/obp/ui/en/#iso:std:iso-iec-ieee:29119:-3:ed-2:v1:en
-https://softdesign.com.br/blog/a-importancia-do-teste-de-software/
-https://miro.com/app/board/o9J_kkqqHXk=/
+* https://www.youtube.com/watch?v=tIfEB66njB4&t=569s
+  
+* https://www.ic.unicamp.br/~meidanis/courses/mc626/2014s1/materiais/slides/Aula15-Testes-caixa-preta-2-tabela-decisao-casos-uso.pdf
+  
+* https://roadmap.sh/qa
+  
+* https://www.guru99.com/v-model-software-testing.html
+  
+* https://www.iso.org/obp/ui/en/#iso:std:iso-iec-ieee:29119:-3:ed-2:v1:en
+  
+* https://softdesign.com.br/blog/a-importancia-do-teste-de-software/
+  
+* https://miro.com/app/board/o9J_kkqqHXk=/
+
+* https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md
